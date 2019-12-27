@@ -4,7 +4,8 @@ class Book
    @title = title
    @author = author
    @page_count = page 
-   @genre = genre 
+   @genre = genre
+ end 
 
 end 
 
