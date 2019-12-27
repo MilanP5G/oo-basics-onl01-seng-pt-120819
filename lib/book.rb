@@ -5,7 +5,7 @@ class Book
  end 
  
  def title
-   puts "And Then There Were None"
+   @title 
  end 
  
  def author=(author)
