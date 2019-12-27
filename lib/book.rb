@@ -13,7 +13,7 @@ class Book
  end 
  
  def author
-   puts "Agatha Christie"
+   @author 
  end 
 
 end 
